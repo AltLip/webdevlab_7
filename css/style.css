@@ -21,7 +21,7 @@ td {
 tr {
   background-color: white;
 }
-.image-p {
+.image-planet {
   float: right;
   width: 300px;
   padding: 5px;
@@ -34,33 +34,37 @@ tr {
 
 .row2 {
   text-align: center;
-  color: RoyalBlue;
+  color: red;
 }
 .row3 {
   text-align: center;
-  color: Maroon;
+  color: orangered;
 }
 .row4 {
   text-align: center;
-  color: LightPink;
+  color: darkorange;
 }
 .row5 {
   text-align: center;
-  color: MediumOrchid;
+  color: yellowgreen;
 }
 .row6 {
   text-align: center;
-  color: ;
+  color: green;
 }
 .row7 {
   text-align: center;
-  color: Orchid;
+  color: mediumseagreen;
 }
 .row8 {
   text-align: center;
-  color: PaleVioletRed;
+  color: darkblue;
 }
 .row9 {
   text-align: center;
-  color: SeaGreen;
+  color: blueviolet;
+}
+.row10 {
+  text-align: center;
+  color: violet;
 }
