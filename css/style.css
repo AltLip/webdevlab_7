@@ -13,13 +13,14 @@ h1 {
   text-align: center;
 }
 td {
-  top:5px;
+  top:10px;
   font-size: 1em;
   font-family: 'Georgia', cursive;
 }
 
 tr {
   background-color: white;
+  top: 50px;
 }
 .image-planet {
   float: right;
