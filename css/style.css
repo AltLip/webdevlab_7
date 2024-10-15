@@ -9,24 +9,23 @@ h1 {
   top: 20px;
   font-size: 3em;
   font-family: 'Georgia', cursive;
-  color: white;
+  color: lightgrey;
   text-align: center;
 }
 td {
-  top:10px;
+  top:15px;
   font-size: 1em;
   font-family: 'Georgia', cursive;
 }
 
 tr {
-  background-color: white;
-  top: 50px;
+  background-color: lightgrey;
 }
 .image-planet {
   float: right;
   width: 300px;
   padding: 5px;
-  background-color: white;
+  background-color: lightgrey;
   margin: 10px 0 10px 20px;
   display: block;
   margin-left: auto;
@@ -34,14 +33,17 @@ tr {
 }
 
 .row2 {
+  padding: 100px;
   text-align: center;
   color: red;
 }
 .row3 {
+  padding: 100px;
   text-align: center;
   color: orangered;
 }
 .row4 {
+  padding: 100px;
   text-align: center;
   color: darkorange;
 }
