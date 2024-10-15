@@ -1,5 +1,6 @@
 body {
   background-image: url("../images/nebula.jpeg");
+  background-position: center;
 }
 .center {
   margin-left: auto;
